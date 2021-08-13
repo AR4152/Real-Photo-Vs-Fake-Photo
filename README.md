@@ -15,3 +15,5 @@ The fake recognition technology is very useful for security solutions, for check
     b. test is the testing sample, for which you will need to make a prediction (12,000 images).
 
 2. The train.csv file for model training and parameter setup, which contains the right answer for every image from the ‘train’ (1 - fake image, 0 - real image).
+
+dataset: https://drive.google.com/file/d/1m9hzPXQ1ffEoJEE5_Swo8WhsIHN11aP6/view?usp=sharing
